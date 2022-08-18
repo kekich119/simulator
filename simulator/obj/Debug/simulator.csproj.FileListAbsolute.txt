@@ -1,0 +1,12 @@
+D:\Programming\C#\simulator\simulator\bin\Debug\simulator.exe.config
+D:\Programming\C#\simulator\simulator\bin\Debug\simulator.exe
+D:\Programming\C#\simulator\simulator\bin\Debug\simulator.pdb
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.csproj.AssemblyReference.cache
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.Properties.Resources.resources
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.csproj.GenerateResource.cache
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.exe
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.pdb
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.Form1.resources
+D:\Programming\C#\simulator\simulator\obj\Debug\simulator.Form2.resources
